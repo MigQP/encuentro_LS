@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "LS_Preview",
+"productVersion": "0.1",
+"dataUrl": "LS_CounteR_014.data.unityweb",
+"wasmCodeUrl": "LS_CounteR_014.wasm.code.unityweb",
+"wasmFrameworkUrl": "LS_CounteR_014.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "LS_CounteR_014.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.19f1"
+}
